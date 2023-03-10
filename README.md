@@ -2,7 +2,7 @@
 
 ### sejongmin:hand:
 
-  <a href="">
+  <a href="https://github.com/sejongmin#sejongminhand">
     <img src="https://img.shields.io/badge/sejongmin-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/1999_jongmin/">
