@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/MI:RE-EAF6FE?style=flat-square&logo=Instagram&logoColor=black"/>
   </a>
 
-  <a href="sejongmin.github.io/MIRE_web/">
+  <a href="https://sejongmin.github.io/MIRE_web/">
     <img src="https://img.shields.io/badge/BTTF-EAF6FE?style=flat-square&logo=Vowpal Wabbit&logoColor=black"/>
   </a>
   
